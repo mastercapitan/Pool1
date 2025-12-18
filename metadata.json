@@ -1,0 +1,7 @@
+{
+  "name": "PoolGuard Tocopilla",
+  "description": "Intelligent pool maintenance PWA for high-evaporation coastal climates. Specialized for 70m3 systems.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
